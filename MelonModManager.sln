@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelonMelonModManager", "MelonModManager\MelonModManager.csproj", "{7019CE57-5855-4BEB-8D81-B1964DF058E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8144F053-27DE-4428-A5C6-7F88191F276A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+		StyleCop.ruleset = StyleCop.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7019CE57-5855-4BEB-8D81-B1964DF058E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7019CE57-5855-4BEB-8D81-B1964DF058E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7019CE57-5855-4BEB-8D81-B1964DF058E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7019CE57-5855-4BEB-8D81-B1964DF058E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E71D7C2-C936-4253-A788-8E7905B32F48}
+	EndGlobalSection
+EndGlobal
